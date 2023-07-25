@@ -25,7 +25,11 @@ Basically , this is a user friedly application where client can see his dashboar
 ***************************************************************
 Here are some Project picture
 
-<img src=""
+![alt text](https://github.com/klaus8/Leave-Management-System/blob/main/Screenshot%202023-07-26%20012029.png?raw=true)
+<h3><b>Home Page</b></h3>
+
+
+
 
 
 
